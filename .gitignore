@@ -1,0 +1,8 @@
+node_modules/
+release/
+license/
+server/
+build.log
+build-admin.log
+release.log
+*.log
