@@ -2,6 +2,8 @@
 
 Windows & Gaming Performance Optimizer.
 
+**Discord (Keys & Support):** https://discord.gg/RmTMsJYvnm
+
 **Download:** [Neueste Version](https://github.com/ghostiii0423/fusion-optimizer/releases/latest) → unter *Assets* die `Fusion Optimizer x.x.x.exe`
 
 - Portable, keine Installation. Beim ersten Start SmartScreen: „Weitere Informationen → Trotzdem ausführen".
